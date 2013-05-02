@@ -6,8 +6,7 @@
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
-#include <iostream>
-using namespace std;
+#include <hello_world.h>
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
